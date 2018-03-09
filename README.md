@@ -1,5 +1,3 @@
 # Hello-World
-A new comer.!
 
-
-Hi i know python and c++ langs....still learning more languages.!
+Let's print "Hello World" in few languages.
